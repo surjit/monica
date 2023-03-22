@@ -16,7 +16,7 @@
 
 </div>
 
-Monica v2 is a great open source personal relationship management system.
+Monica v3 is a great open source personal relationship management system.
 
 - [Introduction](#introduction)
   - [Purpose](#purpose)
